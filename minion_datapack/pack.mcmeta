@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Minion armour stands: a mannequin that follows an invisible wolf",
+    "pack_format": 107,
+    "min_format": [107, 0],
+    "max_format": [120, 0]
+  }
+}
